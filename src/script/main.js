@@ -1,11 +1,3 @@
-window.onload = function(){
-	            var canvas = document.getElementById("mapCanvas");
-	            var ctx = canvas.getContext("2d");
-	            
-	            var pic = document.getElementById("baguioMap");
-	            ctx.drawImage(pic, 0,0);
-}
-
 /*Nav bar begin*/
 function openNav() {
     document.getElementById("mySidenav").style.width = "250px";
