@@ -296,4 +296,16 @@ data = '[\
     "fare" : "Php 8.00 (Students/S.C./PWD) <br> Php 10.00 (Regular)",\
     "jeep_desc" : "Igorot Park across the terminal of BGH/Campo Sioco and take Bakakeng jeepney and ask the conductor if it would go pass through the Church.",\
     "jeep_loc" : "src/terminal/Churches/Holy-Family-Church.jpg"\
+},{\
+  "name": "Turista-Baguio",\
+  "short_name": "Turista",\
+  "icons": [{\
+    "src": "src/images/icons/logo3px.png",\
+      "sizes": "128x128",\
+      "type": "image/png"\
+    }],
+  "start_url": ".",\
+  "display": "standalone",\
+  "background_color": "#3E4EB8",\
+  "theme_color": "#2F3BA2"\
 }]';
